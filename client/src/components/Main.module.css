@@ -1,0 +1,9 @@
+.author_tab {
+    width: 80%;
+    text-align: left;
+    padding: 7px 15px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: rgb(78, 105, 194);
+}
